@@ -25,6 +25,9 @@ When a malicious visitor leaves a comment with a harmful website address, the pl
 2. Upload the `strip-comment-author-url` folder to `/wp-content/plugins/`.
 3. Activate the plugin in **Plugins → Installed Plugins**.
 
+### Screenshots
+![Plugin Screenshot](assets/screenshot-1.png)
+
 ### Usage
 No configuration needed! Activate and it works immediately.
 
@@ -57,6 +60,9 @@ Thank you for using this plugin!
 1. 下载最新版本或克隆本仓库。
 2. 将 `strip-comment-author-url` 文件夹上传到站点目录 `/wp-content/plugins/`。
 3. 在 WordPress 后台「插件 → 已安装插件」中激活。
+
+### 截图
+![插件截图](assets/screenshot-1.png)
 
 ### 使用方法
 无需任何设置！激活插件后立即生效。
