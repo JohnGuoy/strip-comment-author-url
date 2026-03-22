@@ -26,7 +26,7 @@ When a malicious visitor leaves a comment with a harmful website address, the pl
 3. Activate the plugin in **Plugins → Installed Plugins**.
 
 ### Screenshots
-![Plugin Screenshot](assets/screenshot-1.png)
+![Plugin Screenshot](assets/1.png)
 
 ### Usage
 No configuration needed! Activate and it works immediately.
@@ -62,7 +62,7 @@ Thank you for using this plugin!
 3. 在 WordPress 后台「插件 → 已安装插件」中激活。
 
 ### 截图
-![插件截图](assets/screenshot-1.png)
+![插件截图](assets/1.png)
 
 ### 使用方法
 无需任何设置！激活插件后立即生效。
